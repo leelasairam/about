@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @leelasairam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--- Heading --->
 
-<!---
-leelasairam/leelasairam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Kodavali Leela Sai Ram #
+Senior Software Engineer at HCLTech | Salesforce Developer    
+Chennai, Tamilnadu
+
+<!--- Contact --->
+
+## Contact Info  
+Phone : +91 8309645417    
+Email : [saikodavali0948@gmail.com](saikodavali0948@gmail.com)   
+LinkedIn : [linkedin.com/in/kodavali-leela-sai-ram](linkedin.com/in/kodavali-leela-sai-ram) 
+   
+
+
